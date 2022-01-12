@@ -1,6 +1,5 @@
 import json
 import mysql.connector
-from mysql.connector.fabric import connection
 
 configfile = "./config.json"
 
